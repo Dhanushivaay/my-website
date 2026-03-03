@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  text-align: center;
+}
+
+.home-container {
+  margin-top: 40px;
+}
+
+.home-image {
+  width: 200px;
+  height: auto;
+}
+
+.button-group {
+  margin-top: 25px;
+}
+
+.btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn {
+  background: oceanblue;
+  color: #00aaff;
+  border: 2px solid #00aaff;
+}
+
+.btn:hover {
+  background: #00aaff;
+  color: black;
+}
+
+.btn:hover {
+  background: #0056b3;
+  color: white;
+}
+
+/* Page layout */
+.page {
+  padding: 40px;
+}
+
+.page-image {
+  width: 250px;
+  height: auto;
+}
+
+/* Back button */
+.back {
+  margin-top: 20px;
+}
