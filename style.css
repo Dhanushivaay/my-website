@@ -58,3 +58,8 @@ body {
 .back {
   margin-top: 20px;
 }
+.home-image, .page-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
